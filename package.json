@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "pcat photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BCila/PCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Burak Anil CILA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BCila/PCAT/issues"
+  },
+  "homepage": "https://github.com/BCila/PCAT#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
